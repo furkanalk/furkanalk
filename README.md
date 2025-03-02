@@ -60,7 +60,7 @@ Interested in AI, Computer Vision, and Embedded Systems.
 
 ---
 
-![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-snake-dark.svg)
 
 ---
 ## **🎮 Retired Modder**
