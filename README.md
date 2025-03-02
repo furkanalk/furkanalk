@@ -1,10 +1,10 @@
 # 🛫🤖 Autonomous Software Developer
 
-<img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" width="500">
+<img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" width="800">
 
 ---
 
-# **<img src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.gif" width="25"> Hey There! I'm Furkan** 
+# **Hey There! I'm <span style="color:#58b8ab">Furkan</span>**  
 
 🔹 **Software Engineer** specializing in **Autonomous Systems, API Development, and Full-Stack Web Technologies**  
 🔹 Passionate about **ArduPilot, MAVLink, and UAV software development**  
