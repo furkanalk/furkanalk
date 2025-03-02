@@ -3,14 +3,14 @@
 <img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" width="800">
 
 ---
+# 👨‍💻 **Hey There! I'm [Furkan]**  
 
-# **Hey There! I'm <span style="color:#58b8ab">Furkan</span>**  
-
-🔹 **Software Engineer** specializing in **Autonomous Systems, API Development, and Full-Stack Web Technologies**  
-🔹 Passionate about **ArduPilot, MAVLink, and UAV software development**  
-🔹 Currently working on **Teknofest UAV & SİHA Competitions** as the **Head of Software Development**  
-🔹 Interested in **AI, Computer Vision, and Embedded Systems**  
-
+```
+Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.
+Passionate about ArduPilot, MAVLink, and UAV software development.
+Currently working on Teknofest UAV & SİHA Competitions as the Head of Software Development.
+Interested in AI, Computer Vision, and Embedded Systems.
+```
 ---
 
 ## **👀 My Visitors**
@@ -60,7 +60,7 @@
 
 ---
 
-![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 ## **🎮 Retired Modder**
@@ -72,18 +72,19 @@
 
 ## **🏆 Achievements & Competitions**
 ### **🚀 UAV & Autonomous System Development**
-📌 **Teknofest 2025 - SİHA & UAV International Competitions**  
-🔹 Software Engineer at **EGE ATAS Team** working on **autonomous UAVs & control systems**  
+```
+📌 Teknofest 2025 - SİHA & UAV International Competitions  
+🔹 Software Engineer at EGE ATAS Team working on autonomous UAVs & control systems  
 
-📌 **Teknofest 2024 - SİHA UAV Competition**  
-🔹 Developed drone software for autonomous UAV control using **ROS, MAVLink, and PID algorithms**  
-🔹 **Ranked 22nd in Critical Design Report** with 76.50 points  
+📌 Teknofest 2024 - SİHA UAV Competition 
+🔹 Developed drone software for autonomous UAV control using ROS, MAVLink, and PID algorithms 
+🔹 Ranked 22nd in Critical Design Report** with 76.50 points  
 
-📌 **Beykoz University - Engineering Project of the Year Awards**  
-🏆 **2024:** "UAV Tracking System" (Gazebo, ROS, ArduPilot, PyTorch)  
-🏆 **2023:** "Innovative E-Commerce Platform" (Django, PostgreSQL, Cloudinary)  
-🏆 **2022:** "Smart Automation System" (C#, .NET, MS SQL)  
-
+📌 Beykoz University - Engineering Project of the Year Awards
+🏆 2024: "UAV Tracking System" (Gazebo, ROS, ArduPilot, PyTorch)  
+🏆 2023: "Innovative E-Commerce Platform" (Django, PostgreSQL, Cloudinary)  
+🏆 2022: "Smart Automation System" (C#, .NET, MS SQL)  
+```
 ---
 
 ## **📂 Featured Projects**
