@@ -1,34 +1,30 @@
-# 🛫🤖 Autonomous Software Developer
-
-<img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" width="800">
-
----
-# 👨‍💻 **Hey There! I'm [Furkan]**  
-
-```
+<div style="display: flex; align-items: center;">
+  
+  <div style="flex: 1;">
+    <h1>👨‍💻 Hey There! I'm <span style="color:purple;">Furkan</span></h2>
+    <pre>
 Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.
 Passionate about ArduPilot, MAVLink, and UAV software development.
 Currently working on Teknofest UAV & SİHA Competitions as the Head of Software Development.
 Interested in AI, Computer Vision, and Embedded Systems.
-```
----
+    </pre>
+  </div>
+  
+  <div style="flex: 1; text-align: right;">
+    <img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" width="400">
+  </div>
 
-## **👀 My Visitors**
-<img src="https://media1.tenor.com/m/pyGugHcm4XcAAAAC/michael-scott-the-office.gif" width="220">
-
-![Visitor Count](https://profile-counter.glitch.me/furkanalk/count.svg) 
+</div>
 
 ---
 
 ![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-snake-dark.svg)
 
----
-
 ## **🛠 Tech Stack & Skills**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkanalk&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanalk&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkanalk&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanalk&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanalk&layout=compact&theme=radical&card_width=495)  
+
 
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
@@ -107,7 +103,6 @@ Interested in AI, Computer Vision, and Embedded Systems.
 ---
 
 ## **📞 Contact**
-<img src="https://media1.tenor.com/m/mKfeCtD5EukAAAAC/the-office-the.gif" width="220">
 
 📧 **furkanalkilic@outlook.com**
 ---
