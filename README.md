@@ -10,8 +10,6 @@ Currently working on Teknofest UAV & SİHA Competitions as the Head of Software 
 Interested in AI, Computer Vision, and Embedded Systems.
 ```
 
-![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-snake-dark.svg)
-
 ## **🛠 Tech Stack & Skills**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkanalk&theme=radical)
 
@@ -53,6 +51,8 @@ Interested in AI, Computer Vision, and Embedded Systems.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-snake-dark.svg)
 
 ---
 ## **🎮 Retired Modder**
