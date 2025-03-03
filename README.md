@@ -3,12 +3,12 @@
 
 # 👨‍💻 **Hey There! I'm [Furkan]**  
 
-```
-Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.
-Passionate about ArduPilot, MAVLink, and UAV software development.
-Currently working on Teknofest UAV & SİHA Competitions as the Head of Software Development.
-Interested in AI, Computer Vision, and Embedded Systems.
-```
+
+- Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.
+- Passionate about ArduPilot, MAVLink, and UAV software development.
+- Currently working on Teknofest UAV & SİHA Competitions as a Software Developer.
+- Interested in AI, Computer Vision, and Embedded Systems.
+
 
 ## **🛠 Tech Stack & Skills**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkanalk&theme=radical)
