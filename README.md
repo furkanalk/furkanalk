@@ -1,7 +1,7 @@
 
-<img align="right" src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" height="250" width="375">
+<img align="right" src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" height="150" width="275">
 
-## 👨‍💻 **Hey There! I'm [Furkan]**  
+# 👨‍💻 **Hey There! I'm [Furkan]**  
 
 ```
 Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.
