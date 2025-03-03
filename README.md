@@ -1,20 +1,17 @@
 
-<img align="right" src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" height="150" width="275">
 
 # 👨‍💻 **Hey There! I'm [Furkan]**  
-
+<img align="right" src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" height="150" width="275">
 
 - Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.
 - Passionate about ArduPilot, MAVLink, and UAV software development.
 - Currently working on Teknofest UAV & SİHA Competitions as a Software Developer.
 - Interested in AI, Computer Vision, and Embedded Systems.
 
-
 ## **🛠 Tech Stack & Skills**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furkanalk&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanalk&layout=compact&theme=radical&card_width=495)  
-
 
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
