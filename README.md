@@ -1,22 +1,14 @@
-<div style="display: flex; align-items: center;">
-  
-  <div style="flex: 1;">
-    <h1>👨‍💻 Hey There! I'm <span style="color:purple;">Furkan</span></h2>
-    <pre>
+
+<img align="right" src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" height="250" width="375">
+
+## 👨‍💻 **Hey There! I'm [Furkan]**  
+
+```
 Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.
 Passionate about ArduPilot, MAVLink, and UAV software development.
 Currently working on Teknofest UAV & SİHA Competitions as the Head of Software Development.
 Interested in AI, Computer Vision, and Embedded Systems.
-    </pre>
-  </div>
-  
-  <div style="flex: 1; text-align: right;">
-    <img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" width="400">
-  </div>
-
-</div>
-
----
+```
 
 ![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-snake-dark.svg)
 
