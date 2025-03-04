@@ -89,6 +89,7 @@
 ### **Design & Creative Tools**
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FFAB00?logo=davinciresolve&logoColor=white&style=for-the-badge)
 
 ![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-snake-dark.svg)
 
@@ -102,7 +103,7 @@
 
 ## **🏆 Achievements & Competitions**
 ### **🚀 UAV & Autonomous System Development**
-  <img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" style="height: 150px; width: 400px; max-width: 100%; border-radius: 10px; display: block; margin: 0 auto;">
+<img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" style="height: 150px; width: 400px; max-width: 100%; border-radius: 10px;">
   
 ```
 📌 Teknofest 2025 - SİHA & UAV International Competitions  
