@@ -14,7 +14,7 @@
 </div>
 
 ## **🛠 Tech Stack & Skills**
-[![GitHub Streak](https://streak-stats.demolab.com?user=furkanalk&theme=shades-of-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=furkanalk&theme=shades-of-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanalk&layout=compact&theme=shades-of-purple&card_width=495)  
 
