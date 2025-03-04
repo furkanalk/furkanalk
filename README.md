@@ -3,7 +3,6 @@
 # 👨‍💻 **Hey There! I'm Furkan**  
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; flex-wrap: wrap; width: 100%;">
-  <img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" style="height: 150px; width: 500px; max-width: 100%; border-radius: 10px; display: block; margin: 0 auto;">
   <div style="flex: 1; min-width: 300px;">
     <ul>
       <li>Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.</li>
@@ -103,6 +102,8 @@
 
 ## **🏆 Achievements & Competitions**
 ### **🚀 UAV & Autonomous System Development**
+  <img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" style="height: 150px; width: 500px; max-width: 100%; border-radius: 10px; display: block; margin: 0 auto;">
+  
 ```
 📌 Teknofest 2025 - SİHA & UAV International Competitions  
 🔹 Software Engineer at EGE ATAS Team working on autonomous UAVs & control systems  
