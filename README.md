@@ -1,16 +1,27 @@
 
 
 # 👨‍💻 **Hey There! I'm Furkan**  
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; flex-wrap: wrap; width: 100%;">
-    <div style="flex: 1; min-width: 300px;">
-        <ul>
-            <li>Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.</li>
-            <li>Passionate about ArduPilot, MAVLink, and UAV software development.</li>
-            <li>Currently working on Teknofest UAV & SİHA Competitions as a Software Developer.</li>
-            <li>Interested in AI, Computer Vision, and Embedded Systems.</li>
-        </ul>
-    </div>
-    <img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" style="height: 150px; width: 275px; max-width: 100%; border-radius: 10px;">
+<style>
+  @media (max-width: 768px) {
+    .flex-container {
+      flex-direction: column;
+    }
+    .flex-container img {
+      order: -1;
+    }
+  }
+</style>
+
+<div class="flex-container" style="display: flex; align-items: center; justify-content: space-between; gap: 15px; flex-wrap: wrap; width: 100%;">
+  <div style="flex: 1; min-width: 300px;">
+    <ul>
+      <li>Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.</li>
+      <li>Passionate about ArduPilot, MAVLink, and UAV software development.</li>
+      <li>Currently working on Teknofest UAV & SİHA Competitions as a Software Developer.</li>
+      <li>Interested in AI, Computer Vision, and Embedded Systems.</li>
+    </ul>
+  </div>
+  <img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" style="height: 150px; width: 275px; max-width: 100%; border-radius: 10px;">
 </div>
 
 ## **🛠 Tech Stack & Skills**
