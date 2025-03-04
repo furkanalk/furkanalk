@@ -102,7 +102,7 @@
 
 ## **🏆 Achievements & Competitions**
 ### **🚀 UAV & Autonomous System Development**
-  <img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" style="height: 150px; width: 500px; max-width: 100%; border-radius: 10px; display: block; margin: 0 auto;">
+  <img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" style="height: 150px; width: 400px; max-width: 100%; border-radius: 10px; display: block; margin: 0 auto;">
   
 ```
 📌 Teknofest 2025 - SİHA & UAV International Competitions  
