@@ -82,6 +82,8 @@
 ### **Game Development & Modding**
 ![GoldSrc](https://img.shields.io/badge/GoldSrc-FF8C00?logo=valve&logoColor=white&style=for-the-badge)
 ![AMX Mod X](https://img.shields.io/badge/AMXModX-004080?logo=counter-strike&logoColor=white&style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
+![PyArcade](https://img.shields.io/badge/PyArcade-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ### **Operating Systems & Code Editors**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
