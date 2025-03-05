@@ -63,11 +63,12 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-### **Autonomous Systems**
+### **Autonomous Systems & Flight Control Software**
 ![ArduPilot](https://img.shields.io/badge/ArduPilot-000000?logo=autopilot&logoColor=white&style=for-the-badge)
 ![MAVLink](https://img.shields.io/badge/MAVLink-00979D?logo=drone&logoColor=white&style=for-the-badge)
 ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge)
 ![Gazebo](https://img.shields.io/badge/Gazebo-9D76C1?logo=gazebo&logoColor=white&style=for-the-badge)
+![Mission Planner](https://img.shields.io/badge/Mission%20Planner-003366?logo=autopilot&logoColor=white&style=for-the-badge)
 
 ### **Object Recognition & Tracking**
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
