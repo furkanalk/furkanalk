@@ -78,6 +78,7 @@
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-00A67E?logo=ultralytics&logoColor=white&style=for-the-badge)
+![PyZbar](https://img.shields.io/badge/PyZbar-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ### **Game Development & Modding**
 ![GoldSrc](https://img.shields.io/badge/GoldSrc-FF8C00?logo=valve&logoColor=white&style=for-the-badge)
