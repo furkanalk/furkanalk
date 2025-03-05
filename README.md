@@ -1,6 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&pause=1000&color=FFFFFF&background=3a10ad&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Furkan;I'm+wherever+software+exists;Currently+working+on+autonomous+systems)
 
+<div align="center">
+
 ![VisitorCount](https://komarev.com/ghpvc/?username=furkanalk&color=3a10ad&style=for-the-badge)
+</div>
 
 ## **🛠 Tech Stack & Skills**
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=furkanalk&theme=shades-of-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat&card_width=600)
