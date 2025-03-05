@@ -1,22 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&pause=1000&color=FFFFFF&background=3a10ad&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Furkan;I'm+wherever+software+exists;Currently+working+on+autonomous+systems)
 
-<a href="https://www.instagram.com/rzashakeri/">
-
 ![VisitorCount](https://komarev.com/ghpvc/?username=furkanalk&color=3a10ad&style=for-the-badge)
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/furkanalkilic">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/rittiq?si=161663f152a74010">
-    <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/furkan-alk%C4%B1l%C4%B1%C3%A7-bab840224/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-</a>
-
 
 ## **🛠 Tech Stack & Skills**
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=furkanalk&theme=shades-of-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat&card_width=600)
@@ -144,50 +128,3 @@
 </details>
 
 ![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-snake-dark.svg)
-
----
-## **🎮 Retired Modder**
-**Half-Life & GoldSrc Engine Modding Veteran** 
- 
-<img src="https://y.yarn.co/e404f470-c670-4141-a14e-f4226e354582_text.gif" width="300">  
-
----
-
-## **🏆 Achievements & Competitions**
-### **🚀 UAV & Autonomous System Development**
-<img src="ege-atas-uav-team.jpg" alt="EGE ATAS UAV TEAM" style="height: 150px; width: 400px; max-width: 100%; border-radius: 10px;">
-  
-```
-📌 Teknofest 2025 - SİHA & UAV International Competitions  
-🔹 Software Engineer at EGE ATAS Team working on autonomous UAVs & control systems  
-
-📌 Teknofest 2024 - SİHA UAV Competition 
-🔹 Developed drone software for autonomous UAV control using ROS, MAVLink, and PID algorithms 
-🔹 Ranked 22nd in Critical Design Report** with 76.50 points  
-
-📌 Beykoz University - Engineering Project of the Year Awards
-🏆 2024: "UAV Tracking System" (Gazebo, ROS, ArduPilot, PyTorch)  
-🏆 2023: "Innovative E-Commerce Platform" (Django, PostgreSQL, Cloudinary)  
-🏆 2022: "Smart Automation System" (C#, .NET, MS SQL)  
-```
----
-
-## **📂 Featured Projects**
-🔹 [**E-Commerce Site**](https://github.com/furkanalk/e-commerce-site) - Full-Stack Django-based marketplace  
-🔹 [**Restaurant Order & Management System**](https://github.com/furkanalk/restaurant-order-and-management-system)  
-🔹 [**Autonomous UAV Control**](https://drive.google.com/file/d/1JXUwvr_YIsbV7Gv-_KE2djEcS9uxYIl9/view?usp=sharing)  
-
----
-
-## **🎖 Competition Posters**
-📌 🏆 **Beykoz University Awards & Teknofest UAV Competitions**  
-🔹 **[2024 UAV Tracking System - Poster](https://drive.google.com/file/d/1JXUwvr_YIsbV7Gv-_KE2djEcS9uxYIl9/view?usp=sharing)**  
-🔹 **[2023 Innovative E-Commerce - Poster](https://drive.google.com/file/d/1UBO3B8Z_aL3RfUA-bXrGFzWUaYfxo1qJ/view?usp=sharing)**  
-🔹 **[2022 Smart Automation System - Poster](https://drive.google.com/file/d/1ueqYe2-CFdOi4WHY4_-TqtMxRNSkPgkF/view?usp=sharing)**  
-
----
-
-## **📞 Contact**
-
-📧 **furkanalkilic@outlook.com**
----
