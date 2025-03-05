@@ -1,9 +1,25 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&pause=1000&color=FFFFFF&background=3a10ad&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Furkan;I'm+wherever+software+exists;Currently+working+on+autonomous+systems)
 
+<a href="https://www.instagram.com/rzashakeri/">
+
 ![VisitorCount](https://komarev.com/ghpvc/?username=furkanalk&color=3a10ad&style=for-the-badge)
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/furkanalkilic">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/rittiq?si=161663f152a74010">
+    <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/furkan-alk%C4%B1l%C4%B1%C3%A7-bab840224/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+
 
 ## **🛠 Tech Stack & Skills**
-![GitHub Streak](https://streak-stats.demolab.com?user=furkanalk&theme=shades-of-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat&card_width=600)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=furkanalk&theme=shades-of-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat&card_width=600)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanalk&layout=compact&theme=shades-of-purple&card_width=600)  
 
