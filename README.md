@@ -68,7 +68,6 @@
 ![MAVLink](https://img.shields.io/badge/MAVLink-00979D?logo=drone&logoColor=white&style=for-the-badge)
 ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge)
 ![Gazebo](https://img.shields.io/badge/Gazebo-9D76C1?logo=gazebo&logoColor=white&style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
 
 ### **Object Recognition & Tracking**
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
