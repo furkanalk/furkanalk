@@ -9,6 +9,7 @@
 
 <details open>
  <summary><strong style = "font-size:18px">Programming Languages</strong></summary>
+<br>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -21,6 +22,7 @@
 
 <details open>
  <summary><strong style = "font-size:18px">Backend & API</strong></summary>
+<br>
 
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
@@ -38,6 +40,7 @@
 
 <details open>
  <summary><strong style = "font-size:18px">Databases & Storage</strong></summary>
+<br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -49,6 +52,7 @@
 
 <details open>
  <summary><strong style = "font-size:18px">Monitoring & Logging</strong></summary>
+<br>
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
@@ -59,6 +63,7 @@
 
 <details open>
  <summary><strong style = "font-size:18px">Web & Frontend Development</strong></summary>
+<br>
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
@@ -69,6 +74,7 @@
 
 <details open>
  <summary><strong style = "font-size:18px">Autonomous Systems & Flight Control Software</strong></summary>
+<br>
 
 ![ArduPilot](https://img.shields.io/badge/ArduPilot-000000?logo=autopilot&logoColor=white&style=for-the-badge)
 ![MAVLink](https://img.shields.io/badge/MAVLink-00979D?logo=drone&logoColor=white&style=for-the-badge)
@@ -79,6 +85,7 @@
 
 <details open>
  <summary><strong style = "font-size:18px">Object Recognition & Tracking</strong></summary>
+<br>
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
 ![Roboflow](https://img.shields.io/badge/Roboflow-FF7139?logo=roboflow&logoColor=white&style=for-the-badge)
@@ -91,6 +98,7 @@
 
 <details open>
  <summary><strong style = "font-size:18px; ">Game Development & Modding</strong></summary>
+<br>
 
 ![GoldSrc](https://img.shields.io/badge/GoldSrc-FF8C00?logo=valve&logoColor=white&style=for-the-badge)
 ![AMX Mod X](https://img.shields.io/badge/AMXModX-004080?logo=counter-strike&logoColor=white&style=for-the-badge)
@@ -100,6 +108,7 @@
 
 <details open>
  <summary><strong style = "font-size:18px">Operating Systems & Code Editors</strong></summary>
+<br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
@@ -111,6 +120,7 @@
 
 <details open>
  <summary><strong style = "font-size:18px">Design & Creative Tools</strong></summary>
+<br>
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
