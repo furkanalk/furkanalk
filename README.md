@@ -1,17 +1,10 @@
 
 
-# 👨‍💻 **Hey There! I'm Furkan**  
+![header](https://capsule-render.vercel.app/api?type=venom&color=3a10ad&height=200&section=header&text=Let's%20Fly%20High!&fontSize=40&font=Honk&fontColor=FFFFFF&animation=scaleIn)
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 15px; flex-wrap: wrap; width: 100%;">
-  <div style="flex: 1; min-width: 300px;">
-    <ul>
-      <li>Software Engineer specializing in Autonomous Systems, API Development, and Full-Stack Web Technologies.</li>
-      <li>Passionate about ArduPilot, MAVLink, and UAV software development.</li>
-      <li>Currently working on Teknofest UAV &amp; SİHA Competitions as a Software Developer.</li>
-      <li>Interested in AI, Computer Vision, and Embedded Systems.</li>
-    </ul>
-  </div>
-</div>
+![VisitorCount](https://komarev.com/ghpvc/?username=furkanalk&color=3a10ad&style=for-the-badge)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&pause=1000&color=FFFFFF&background=3a10ad&center=true&vCenter=true&width=500&lines=Hey+There!+I'm+Furkan;I'm+wherever+software+exists;Currently+working+on+autonomous+systems)
 
 ## **🛠 Tech Stack & Skills**
 ![GitHub Streak](https://streak-stats.demolab.com?user=furkanalk&theme=shades-of-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat)
