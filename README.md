@@ -28,12 +28,19 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 
-### **Backend & API Development**
+### **Backend & API Development / Test / Security**
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white&style=for-the-badge)
 ![Kong API Gateway](https://img.shields.io/badge/Kong-00A4CC?logo=kong&logoColor=white&style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)
+![HTTPie](https://img.shields.io/badge/HTTPie-49B2E8?logo=httpie&logoColor=white&style=for-the-badge)
+![Mock Server](https://img.shields.io/badge/Mock%20Server-FF6C37?logo=mockserver&logoColor=white&style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 ### **Databases & Storage**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
@@ -42,16 +49,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
-
-### **API & Testing Tools**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)
-![HTTPie](https://img.shields.io/badge/HTTPie-49B2E8?logo=httpie&logoColor=white&style=for-the-badge)
-![Mock Server](https://img.shields.io/badge/Mock%20Server-FF6C37?logo=mockserver&logoColor=white&style=for-the-badge)
-
-### **DevOps & Containerization**
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 ### **Monitoring & Logging**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
@@ -67,12 +64,21 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-### **Autonomous Systems & Embedded Development**
+### **Autonomous Systems**
 ![ArduPilot](https://img.shields.io/badge/ArduPilot-000000?logo=autopilot&logoColor=white&style=for-the-badge)
 ![MAVLink](https://img.shields.io/badge/MAVLink-00979D?logo=drone&logoColor=white&style=for-the-badge)
 ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge)
 ![Gazebo](https://img.shields.io/badge/Gazebo-9D76C1?logo=gazebo&logoColor=white&style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
+
+### **Object Recognition & Tracking**
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge)
+![Roboflow](https://img.shields.io/badge/Roboflow-FF7139?logo=roboflow&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-00A67E?logo=ultralytics&logoColor=white&style=for-the-badge)
 
 ### **Game Development & Modding**
 ![GoldSrc](https://img.shields.io/badge/GoldSrc-FF8C00?logo=valve&logoColor=white&style=for-the-badge)
