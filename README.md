@@ -13,6 +13,7 @@
  <summary><strong style = "font-size:18px">Programming Languages</strong></summary>
 <br>
 
+![Pawn](https://img.shields.io/badge/Pawn-6DB33F?logo=pawn&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
