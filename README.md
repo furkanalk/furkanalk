@@ -7,7 +7,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=furkanalk&theme=shades-of-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanalk&layout=compact&theme=shades-of-purple&card_width=600)
+![Top Languages](./metrics.languages.svg)
 
 <div align="left">
   <img src="https://img.shields.io/badge/Methodology-DevOps-critical?style=for-the-badge&logo=azuredevops&logoColor=white" />

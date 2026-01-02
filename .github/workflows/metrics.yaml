@@ -1,0 +1,30 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: furkanalk
+          template: classic
+
+          base: ""
+          languages: yes
+          languages_limit: 6
+          languages_details: bytes-size, percentage
+
+          config_color_mode: dark
+          config_theme: dark
+          config_accent_color: "a277ff"
+          config_background: "linear-gradient(180deg, #2a0f45, #160b2e)"
+
+          config_display: columns
+          languages_threshold: 2%
+          filename: assets/metrics-languages.svg
