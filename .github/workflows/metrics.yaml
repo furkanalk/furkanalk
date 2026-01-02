@@ -1,30 +1,44 @@
-name: Metrics
+name: GitHub Metrics (Top Languages)
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  metrics:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics SVG
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: furkanalk
-          template: classic
+          user: ${{ github.repository_owner }}
 
+          template: classic
           base: ""
+
           languages: yes
           languages_limit: 6
           languages_details: bytes-size, percentage
+          languages_threshold: 2%
 
           config_color_mode: dark
           config_theme: dark
           config_accent_color: "a277ff"
           config_background: "linear-gradient(180deg, #2a0f45, #160b2e)"
 
-          config_display: columns
-          languages_threshold: 2%
-          filename: assets/metrics-languages.svg
+          filename: dist/metrics-languages.svg
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update metrics languages [skip ci]"
