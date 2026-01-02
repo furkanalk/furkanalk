@@ -7,7 +7,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=furkanalk&theme=shades-of-purple&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon&card_width=600)
 
-![Top Languages](./metrics.languages.svg)
+![Top Langs](https://raw.githubusercontent.com/furkanalk/furkanalk/output/metrics-languages.svg)
 
 <div align="left">
   <img src="https://img.shields.io/badge/Methodology-DevOps-critical?style=for-the-badge&logo=azuredevops&logoColor=white" />
@@ -125,4 +125,4 @@
  ![JetBrains Fleet](https://img.shields.io/badge/JetBrains%20Fleet-000000?logo=jetbrains&logoColor=white&style=for-the-badge)
 </details>
 
-![Snake animation](https://github.com/furkanalk/furkanalk/blob/output/github-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/furkanalk/furkanalk/output/github-snake-dark.svg)

@@ -5,8 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
   generate:
@@ -14,7 +13,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate Metrics SVG
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -34,11 +33,3 @@ jobs:
           config_background: "linear-gradient(180deg, #2a0f45, #160b2e)"
 
           filename: dist/metrics-languages.svg
-
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "Update metrics languages [skip ci]"
